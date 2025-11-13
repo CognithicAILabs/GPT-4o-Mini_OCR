@@ -1,0 +1,26 @@
+```
+[Your name]
+[Your clinic/hospital's name]
+[Address]
+[Email address]
+[Phone number]
+
+                            Medical Certificate
+
+[Date issued]
+
+Dear ______ [Name of recipient] ______,
+
+This is to certify that ________________ [Patient's full name] ________________, was examined on ________________ [Date]. After a comprehensive examination, no medical conditions or health issues have been identified that would interfere with their daily activities. The patient exhibits no signs of illness or impairment, and their overall health is satisfactory.
+
+Given this assessment, the patient is fully capable of engaging in all daily activities and responsibilities without any restrictions or limitations. This medical certificate is issued for:
+
+[State purpose, e.g., attendance or participation in activity, work-related accommodations, leave of absence, or educational purposes].
+
+Should you have any further questions or require additional information, please feel free to contact me.
+
+Sincerely,
+
+[Practitioner/Sender name]
+[Role/Job position]
+```
